@@ -1,5 +1,5 @@
 # Seja Bem-vindo(a)! Sou o Pedro Afonso.
-<br><br>🏢Trabalho como FieldService na empresa Estácio Florianópolis.<br>🖥️Cursos concluídos: HTML, C, C++, JAVA e Python.<br>📖Atualmente estudando Javascript e PHP.
+<br><br>🏢Trabalho como FieldService na empresa Estácio Florianópolis.<br>🖥️Cursos concluídos: HTML, CSS, C, C++, JAVA e Python.<br>📖Atualmente estudando Javascript e PHP.
 
 
 ## 🌐 Socials:
